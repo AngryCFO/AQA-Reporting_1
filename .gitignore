@@ -1,6 +1,8 @@
-HELP.md
+rfrHELP.md
 .gradle
 build/
+artifacts/*
+!artifacts/.gitkeep
 
 ### STS ###
 .apt_generated
