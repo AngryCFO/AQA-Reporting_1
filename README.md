@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9konw20gaif7ubxl/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/aqa-reporting-1/branch/main)
-
 ## Задача №1 - "Проснулись" (Allure)
 
 В одном из предыдущих проектов [Patterns](https://github.com/netology-code/aqa-homeworks/tree/master/patterns) вы тестировали функциональности заказа карт.
@@ -9,3 +7,8 @@
 Начать решили именно с функции доставки карт.
 
 Вам нужно: взять ваш проект (см. "Как сдавать задачи") и прикрутить туда Allure, интегрированный с Selenide. Удостоверьтесь, что при локальном запуске всё работает, отчёты генерируются, скриншоты прикрепляются и вы можете их посмотреть через Allure.
+
+## Скриншоты из Allure:
+![image](https://github.com/user-attachments/assets/8f2d7e4c-d302-4413-afee-aa0936745389)
+
+![image](https://github.com/user-attachments/assets/b9c2fac2-cccd-49ac-b133-2aeeb17c306f)
